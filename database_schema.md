@@ -26,7 +26,7 @@ ItemPrice (id, jitaSellAmount, amarrSellAmount, jitaBuyAmount, amarrBuyAmount ti
 - Entity Type: Game-Item Price
 - Relation to other Tables:
 - Column name explanation:
-- Id (integer)– The in-game unique item integer id given to each item
+  - Id (integer)– The in-game unique item integer id given to each item
   - jitaSellAmount (integer) – The individual sell value of this item in the jita trade hub based on Eve-praisal API call
   - amarrSellAmount (integer)- The individual sell value of this item in the amarr trade hub based on Eve-praisal API call
   - jitaBuyAmount(integer) - The individual buy value of this item in the jita tradehub based on Eve-praisal API call
